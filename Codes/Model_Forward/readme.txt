@@ -1,0 +1,1 @@
+Fig_15_Forward_perm_app  和   Fig_14_Forward_Sw_app  ，通过改变第15行的参数，画不同的图
